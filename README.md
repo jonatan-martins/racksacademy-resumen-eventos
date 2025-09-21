@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Racks Academy - Evento de IA
 
 Una plataforma web moderna para documentar y compartir contenido del evento especial de aniversario de Racks Academy, enfocado en innovación con Inteligencia Artificial, ejecución de MVPs y casos de éxito empresariales.
@@ -293,3 +294,6 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 ⭐ **¡No olvides darle una estrella al proyecto si te gusta!**
 
 Made with ❤️ by the Racks Academy Team
+=======
+# racksacademy-resumen-eventos
+>>>>>>> 0a79a81b527f9825799338e1f108cf05293eec07
