@@ -1,0 +1,1 @@
+# racksacademy-resumen-eventos
